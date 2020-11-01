@@ -1,0 +1,9 @@
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\bin\Debug\Login.exe.config
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\bin\Debug\Login.exe
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\bin\Debug\Login.pdb
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.exe
+C:\Users\louis\Desktop\Clase de Prueba de Software\Construccion y Prueba\Proyecto\Login\Login\obj\Debug\Login.pdb
